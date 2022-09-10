@@ -12,6 +12,10 @@
 	font-style: normal;
 }
 
+html,body {
+	max-width: 100% !important;
+	overflow-x: hidden !important;
+}
 
 *{
 	margin:0px;
